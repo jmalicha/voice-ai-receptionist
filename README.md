@@ -141,4 +141,4 @@ Copy the HTTPS URL ngrok gives you - you will need it for the Vapi configuration
 I'm Joyce Malicha, a developer focused on building practical AI solutions. This project is part of my portfolio.
 
 - GitHub: [github.com/jmalicha](https://github.com/jmalicha)
-- LinkedIn: [linkedin.com/in/jmalicha](https://linkedin.com/in/jmalicha)
+- LinkedIn: [linkedin.com/in/joyce-malicha](https://www.linkedin.com/in/joyce-malicha/)
